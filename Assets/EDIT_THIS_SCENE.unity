@@ -1809,7 +1809,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1287166886}
   m_Layer: 0
-  m_Name: EDIT_THIS_CONTENT
+  m_Name: EDIT_CONTENT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
