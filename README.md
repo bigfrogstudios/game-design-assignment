@@ -13,6 +13,7 @@ The goal of this assignment is to give you a similar experience of what is going
 
 ## Tips and Rules
 - In this project you will find a Unity scene named *EDIT_THIS_SCENE* where you should do your task.
+- Feel free to add, change, or remove lights from the scene.
 - Animations is not a requirement.
 - You must delivery the task as a fork or a branch of this Git repository.
 
