@@ -24,7 +24,8 @@ Before:
 ![image](https://user-images.githubusercontent.com/40356907/165388713-7bf9d585-c12a-42aa-8510-c0e2d4a07890.png)
 
 After:
-![image](https://user-images.githubusercontent.com/40356907/165388971-37fc6fb7-09d4-424c-9165-87bf6cc1438e.png)
+![image](https://user-images.githubusercontent.com/40356907/165389304-e9e7619f-2dc1-4aee-8cf0-b567518f6041.png)
+
 
 ## Questions?
 If you have any doubt about the exercise, or if you didn't receive a Unity package of assets to use, please don't hesitate to contact us: raphaelzappacosta@bigfrogstudios.com
