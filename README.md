@@ -18,7 +18,7 @@ The goal of this assignment is to give you a similar experience of what is going
 - You must delivery the task as a fork Git repository.
 
 ## Example
-Obs: The following example is not considered a well made test, is just an idea of what we expect in terms of size. Be creative.
+Obs: The following example is just an idea of what we expect in terms of size. Be creative. Don't copy it.
 
 Before:
 ![image](https://user-images.githubusercontent.com/40356907/165388713-7bf9d585-c12a-42aa-8510-c0e2d4a07890.png)
